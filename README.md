@@ -4,7 +4,9 @@ Telegram Swiss Knife - scraper, adder, spammer, CSV merger
 Telegram Swiss Knife - parser, spammer, inviter, CSV merger
 
 _Current version: Still in development_
+
 _Code is formatted with [yapf](https://github.com/google/yapf)_
+
 _We're hiring for Developers and Beta Testers! [Contact me on Telegram](https://t.me/yutaredux)._
 
 ### 📰 Fulfill all your Telegram promotion needs with TGSK!
