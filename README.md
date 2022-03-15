@@ -1,8 +1,6 @@
 # TGSK
 Telegram Swiss Knife - scraper, adder, spammer, CSV merger
 
-# TGSK beta
-
 Telegram Swiss Knife - parser, spammer, inviter, CSV merger
 
 _Current version: Still in development_
