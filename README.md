@@ -9,6 +9,8 @@ _Code is formatted with [yapf](https://github.com/google/yapf)_
 
 _We're hiring for Developers and Beta Testers! [Contact me on Telegram](https://t.me/yutaredux)._
 
+# [Join @tgswissknife on Telegram!](https://t.me/tgswissknife)
+
 ### 📰 Fulfill all your Telegram promotion needs with TGSK!
 
 With this script, you can:
